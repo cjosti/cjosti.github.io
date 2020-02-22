@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/teste/static/css/main.d1b05096.chunk.css",
-    "main.js": "/teste/static/js/main.d8efa6bf.chunk.js",
-    "main.js.map": "/teste/static/js/main.d8efa6bf.chunk.js.map",
-    "runtime-main.js": "/teste/static/js/runtime-main.c71f11f6.js",
-    "runtime-main.js.map": "/teste/static/js/runtime-main.c71f11f6.js.map",
-    "static/js/2.e96ca3b1.chunk.js": "/teste/static/js/2.e96ca3b1.chunk.js",
-    "static/js/2.e96ca3b1.chunk.js.map": "/teste/static/js/2.e96ca3b1.chunk.js.map",
-    "index.html": "/teste/index.html",
-    "precache-manifest.20e0101f8dcb87029815f55ea3e2bfd9.js": "/teste/precache-manifest.20e0101f8dcb87029815f55ea3e2bfd9.js",
-    "service-worker.js": "/teste/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/teste/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.e96ca3b1.chunk.js.LICENSE.txt": "/teste/static/js/2.e96ca3b1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/teste/static/media/logo.5d5d9eef.svg"
+    "main.css": "/cleitonosti/static/css/main.d1b05096.chunk.css",
+    "main.js": "/cleitonosti/static/js/main.069de095.chunk.js",
+    "main.js.map": "/cleitonosti/static/js/main.069de095.chunk.js.map",
+    "runtime-main.js": "/cleitonosti/static/js/runtime-main.a212f558.js",
+    "runtime-main.js.map": "/cleitonosti/static/js/runtime-main.a212f558.js.map",
+    "static/js/2.e96ca3b1.chunk.js": "/cleitonosti/static/js/2.e96ca3b1.chunk.js",
+    "static/js/2.e96ca3b1.chunk.js.map": "/cleitonosti/static/js/2.e96ca3b1.chunk.js.map",
+    "index.html": "/cleitonosti/index.html",
+    "precache-manifest.3a99ba4900ce905342645c71e5ce2422.js": "/cleitonosti/precache-manifest.3a99ba4900ce905342645c71e5ce2422.js",
+    "service-worker.js": "/cleitonosti/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/cleitonosti/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.e96ca3b1.chunk.js.LICENSE.txt": "/cleitonosti/static/js/2.e96ca3b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cleitonosti/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c71f11f6.js",
+    "static/js/runtime-main.a212f558.js",
     "static/js/2.e96ca3b1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.d8efa6bf.chunk.js"
+    "static/js/main.069de095.chunk.js"
   ]
 }
